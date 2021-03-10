@@ -1,14 +1,24 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express.js",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlcohan/11.NoteTakerMC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mlcohan/11.NoteTakerMC/issues"
+  },
+  "homepage": "https://github.com/mlcohan/11.NoteTakerMC#readme"
 }
